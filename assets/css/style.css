@@ -1,10 +1,8 @@
-<!DOCTYPE css>
-<style>
-
 label {
 	display: block;
 	letter-spacing: 2px;
-	margin-top:20px;
+	margin-top:-5px;
+
 }
 body {
 	display: block;
@@ -12,7 +10,7 @@ body {
 	width: 1000px;
 	float:left;
 	background: url(http://ginva.com/wp-content/uploads/2012/02/simple-wallpaper-20.jpg);
-
+	
 
 }
 
@@ -53,7 +51,7 @@ h3 {
   margin-top: 100px;
   margin-bottom:10px;
   padding: 50px;
-  border: solid #f2f2f2 10px;
+  border: solid #f2f2f2 2px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -76,7 +74,7 @@ h3 {
 	border-width:10px;
 	background-color:#cdcdcd;
 	-webkit-box-sizing: border-box;
-	text-shadow: 2px 2px 4px #2f2f2f;
+	text-shadow: 1px 1px 2px #2f2f2f;
 	box-shadow: 10px 10px 5px grey;
 }
 
@@ -121,8 +119,8 @@ box-shadow: 10px 10px 5px grey;
  }
  
  .footer {
- 	 width: 960px;
- 	 height:20px;
+ 	width: 960px;
+ 	height:20px;
   margin-left:125px;
   margin-right:55px;
   margin-bottom:100px;
@@ -151,32 +149,33 @@ box-shadow: 10px 10px 5px grey;
 input, textarea {
     width:300px;
     height:27px;
-	background: url(ihttp://www.nexus5wallpapers.com/wp-content/uploads/Background/Simple%20Background%20Nexus%205%20Wallpapers%20HD%20239.jpg);
+	background: url(https://s-media-cache-ak0.pinimg.com/564x/77/d9/10/77d9104c78eb40121d0083cb31b9cfd3.jpg);
     border:1px solid;
     padding:10px;
-    margin-top:25px;
+    margin-top:15px;
     font-size:0.9em;
     color:#3a3a3a;
     -moz-border-radius:5px;
     -webkit-border-radius:5px;
     border-radius:5px;
     margin-bottom: 5px;
+
 }
 input:focus, textarea:focus {
     border:1px solid;
 }
 textarea {
-	height:213px;
-	background: url(ihttp://www.nexus5wallpapers.com/wp-content/uploads/Background/Simple%20Background%20Nexus%205%20Wallpapers%20HD%20239.jpg);
-	margin-top: 20px;
-	margin-left: 63px;
+	height:200px;
+	background:url(https://s-media-cache-ak0.pinimg.com/564x/77/d9/10/77d9104c78eb40121d0083cb31b9cfd3.jpg);
+	margin-top: 25px;
+	margin-left: 10px;
 }
 #submit {
     width:127px;
     height:38px;
     background-color: #b5b5b5;
     border:none;
-    margin-top:20px;
+    margin-top:5px;
     cursor:pointer;
     margin-left:160px;
 }
@@ -186,12 +185,14 @@ textarea {
 	width:250px;
 	border-radius: 25%;	
 	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px grey;
 }
 #stove {
 	height:175px;
 	width:250px;
 	border-radius: 25%;
 	float:right;
+	box-shadow: 10px 10px 5px grey;
 }
 #drone {
 	height:175px;
@@ -199,6 +200,7 @@ textarea {
 	border-radius: 25%;
 	float: right;
 	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px grey;
 }
 #jazzbar {
 	height:175px;
@@ -206,18 +208,21 @@ textarea {
 	border-radius: 25%;
 	float:left;
 	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px grey;
 }
 #stage {
 	height:175px;
 	width:250px;
 	border-radius: 25%;
 	float:right;
+	box-shadow: 10px 10px 5px grey;
 }
 #classmeet {
 	height:175px;
 	width:250px;
 	border-radius: 25%;
 	margin-bottom: 20px;
+	box-shadow: 10px 10px 5px grey;
 }
 #pics {
 	width: 550px;
@@ -227,7 +232,3 @@ textarea {
 margin-top: 10px;
 
 }
-
-
-
-</style>
